@@ -1,0 +1,14 @@
+c:\Users\imaxi\OneDrive\Документы\VSCode\cs\cs1\bin\Debug\net7.0\cs1.exe
+c:\Users\imaxi\OneDrive\Документы\VSCode\cs\cs1\bin\Debug\net7.0\cs1.deps.json
+c:\Users\imaxi\OneDrive\Документы\VSCode\cs\cs1\bin\Debug\net7.0\cs1.runtimeconfig.json
+c:\Users\imaxi\OneDrive\Документы\VSCode\cs\cs1\bin\Debug\net7.0\cs1.dll
+c:\Users\imaxi\OneDrive\Документы\VSCode\cs\cs1\bin\Debug\net7.0\cs1.pdb
+c:\Users\imaxi\OneDrive\Документы\VSCode\cs\cs1\obj\Debug\net7.0\cs1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\imaxi\OneDrive\Документы\VSCode\cs\cs1\obj\Debug\net7.0\cs1.AssemblyInfoInputs.cache
+c:\Users\imaxi\OneDrive\Документы\VSCode\cs\cs1\obj\Debug\net7.0\cs1.AssemblyInfo.cs
+c:\Users\imaxi\OneDrive\Документы\VSCode\cs\cs1\obj\Debug\net7.0\cs1.csproj.CoreCompileInputs.cache
+c:\Users\imaxi\OneDrive\Документы\VSCode\cs\cs1\obj\Debug\net7.0\cs1.dll
+c:\Users\imaxi\OneDrive\Документы\VSCode\cs\cs1\obj\Debug\net7.0\refint\cs1.dll
+c:\Users\imaxi\OneDrive\Документы\VSCode\cs\cs1\obj\Debug\net7.0\cs1.pdb
+c:\Users\imaxi\OneDrive\Документы\VSCode\cs\cs1\obj\Debug\net7.0\cs1.genruntimeconfig.cache
+c:\Users\imaxi\OneDrive\Документы\VSCode\cs\cs1\obj\Debug\net7.0\ref\cs1.dll
